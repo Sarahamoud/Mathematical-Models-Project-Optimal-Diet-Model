@@ -28,12 +28,8 @@ Decision Variables:
 …
 𝑥
 20
-x
-1
-	​
-
-…x
-20
+ 
+	
 	​
 
  represent the amount (in grams) of each food type.
@@ -45,6 +41,7 @@ Minimize
 𝐾
 𝑎
 𝑙
+equal to
 =
 ∑
 𝑖
@@ -62,20 +59,7 @@ Minimize
 𝑥
 𝑖
 )
-Minimize Kal=
-i
-∑
-	​
-
-(Calories
-i
-	​
-
-⋅x
-i
-	​
-
-)
+ 
 
 Constraints:
 
